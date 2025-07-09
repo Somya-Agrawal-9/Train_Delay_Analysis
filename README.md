@@ -22,11 +22,11 @@ Interactive slicers: Day of week, weather conditions, train type
 Power BI best practices: clean layout, consistent color coding, meaningful labels
 
 # 📂 Files in this repo
-train_delay_dataset.csv — source dataset (or a sample if data is too large)
+train_delay_dataset.csv — 
 
 train_delay_dashboard.pbix — Power BI file
 
-screenshots/ — dashboard preview images
+screenshots — dashboard preview images
 
 README.md — this file
 

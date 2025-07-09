@@ -1,7 +1,7 @@
 # Train_Delay_Analysis
 SQL + Power BI Project
 
-📌 Executive Summary
+# 📌 Executive Summary
 This project focuses on analyzing train delay data to identify key operational patterns, delay contributors, and improvement areas. The dashboard presents KPIs and interactive visuals to support business decision-making on train punctuality, congestion impact, and route efficiency.
 
 📊 Key Features

@@ -50,5 +50,4 @@ Time series forecasting of delays
 
 Real-time data integration
 
-📬 Contact
-Feel free to connect with me on LinkedIn or provide feedback!
+📬 Feel free to connect with me on LinkedIn or provide feedback!

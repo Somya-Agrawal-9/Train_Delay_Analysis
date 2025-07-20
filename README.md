@@ -29,10 +29,7 @@ Power BI best practices: clean layout, consistent color coding, meaningful label
 
 [https://github.com/Somya-Agrawal-9/Train_Delay_Analysis/blob/main/Train_Delay.pbix] — Power BI file
 
-screenshots — dashboard preview images
-
-README.md — this file
-
+screenshot — dashboard preview images
 
 📈 Potential business impact
 

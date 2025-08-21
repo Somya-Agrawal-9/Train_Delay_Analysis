@@ -31,7 +31,9 @@ screenshot — dashboard preview images
 Potential business impact -
 
 *Identify congestion-heavy routes
+
 *Plan punctuality improvement initiatives
+
 *Support maintenance scheduling based on route type and delay patterns
 
 Future work -

@@ -1,17 +1,17 @@
 # Train_Delay_Analysis
 
-📌 Executive Summary
+Executive Summary
 
 This project focuses on analyzing train delay data to identify key operational patterns, delay contributors, and improvement areas. The dashboard presents KPIs and interactive visuals to support business decision-making on train punctuality, congestion impact, and route efficiency.
 
 
-📊 Key Features
+Key Features
 Data cleaning and import using MySQL
 
 KPI cards: Average delay, % trains delayed >10 mins, max delay
 
 
-📊 Visuals
+Visuals
 
 Lollipop chart: Avg delay by distance band
 
@@ -23,7 +23,7 @@ Interactive slicers: Day of week, weather conditions, train type
 
 Power BI best practices: clean layout, consistent color coding, meaningful labels
 
-📂 Files in this repo
+Files in this repo
 
 [https://github.com/Somya-Agrawal-9/Train_Delay_Analysis/blob/main/train%20delay%20cleaned%20csv.csv] — Dataset CSV file
 
@@ -31,7 +31,7 @@ Power BI best practices: clean layout, consistent color coding, meaningful label
 
 screenshot — dashboard preview images
 
-📈 Potential business impact
+Potential business impact
 
 Identify congestion-heavy routes
 
@@ -39,7 +39,7 @@ Plan punctuality improvement initiatives
 
 Support maintenance scheduling based on route type and delay patterns
 
-💡 Future work
+Future work
 
 Include additional data (e.g. station stops, train schedules)
 
